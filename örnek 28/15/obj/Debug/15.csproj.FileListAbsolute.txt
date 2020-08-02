@@ -1,0 +1,9 @@
+C:\Users\aydna\Desktop\C# ders notları\15\15\bin\Debug\15.exe.config
+C:\Users\aydna\Desktop\C# ders notları\15\15\bin\Debug\15.exe
+C:\Users\aydna\Desktop\C# ders notları\15\15\bin\Debug\15.pdb
+C:\Users\aydna\Desktop\C# ders notları\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
+C:\Users\aydna\Desktop\C# ders notları\15\15\obj\Debug\15.exe
+C:\Users\aydna\Desktop\C# ders notları\15\15\obj\Debug\15.pdb
+I:\C# Dersleri\Örnekler\15\15\bin\Debug\15.exe.config
+I:\C# Dersleri\Örnekler\15\15\obj\Debug\15.exe
+I:\C# Dersleri\Örnekler\15\15\obj\Debug\15.pdb

@@ -1,0 +1,5 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 54\örnek 54\bin\Debug\örnek 54.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 54\örnek 54\bin\Debug\örnek 54.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 54\örnek 54\bin\Debug\örnek 54.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 54\örnek 54\obj\Debug\örnek 54.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 54\örnek 54\obj\Debug\örnek 54.pdb

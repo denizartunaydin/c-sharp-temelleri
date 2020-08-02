@@ -1,0 +1,6 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\bin\Debug\örnek 38.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\obj\Debug\örnek 38.csprojResolveAssemblyReference.cache
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\bin\Debug\örnek 38.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\bin\Debug\örnek 38.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\obj\Debug\örnek 38.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 38\örnek 38\obj\Debug\örnek 38.pdb

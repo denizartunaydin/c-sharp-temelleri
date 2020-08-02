@@ -1,0 +1,5 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 39\örnek 39\bin\Debug\örnek 39.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 39\örnek 39\bin\Debug\örnek 39.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 39\örnek 39\bin\Debug\örnek 39.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 39\örnek 39\obj\Debug\örnek 39.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 39\örnek 39\obj\Debug\örnek 39.pdb

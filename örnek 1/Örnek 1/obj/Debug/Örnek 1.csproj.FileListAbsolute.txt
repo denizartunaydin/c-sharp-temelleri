@@ -1,0 +1,9 @@
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\bin\Debug\Örnek 1.exe.config
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\bin\Debug\Örnek 1.exe
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\bin\Debug\Örnek 1.pdb
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\obj\Debug\Örnek 1.csprojResolveAssemblyReference.cache
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\obj\Debug\Örnek 1.exe
+C:\Users\YusufFurkan\Desktop\örnekler\Örnek 1\Örnek 1\obj\Debug\Örnek 1.pdb
+I:\C# Dersleri\Örnekler\örnekler\Örnek 1\Örnek 1\bin\Debug\Örnek 1.exe.config
+I:\C# Dersleri\Örnekler\örnekler\Örnek 1\Örnek 1\obj\Debug\Örnek 1.exe
+I:\C# Dersleri\Örnekler\örnekler\Örnek 1\Örnek 1\obj\Debug\Örnek 1.pdb

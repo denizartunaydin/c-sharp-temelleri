@@ -1,0 +1,14 @@
+c:\users\aydna\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\aydna\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\aydna\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\aydna\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\aydna\documents\visual studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+I:\C# Dersleri\Örnekler\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 33\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 33\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 33\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

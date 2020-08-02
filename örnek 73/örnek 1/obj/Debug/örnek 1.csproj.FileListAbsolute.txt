@@ -1,0 +1,15 @@
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\bin\Debug\örnek 1.exe.config
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\obj\Debug\örnek 1.csprojResolveAssemblyReference.cache
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\bin\Debug\örnek 1.exe
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\bin\Debug\örnek 1.pdb
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\obj\Debug\örnek 1.exe
+C:\Users\Yusuf Furkan Duman\Desktop\yeni örnekler c#\örnek 1\örnek 1\obj\Debug\örnek 1.pdb
+C:\Users\Yusuf Furkan Duman\Desktop\Class örnekleri\örnek 1\örnek 1\bin\Debug\örnek 1.exe.config
+C:\Users\Yusuf Furkan Duman\Desktop\Class örnekleri\örnek 1\örnek 1\obj\Debug\örnek 1.exe
+C:\Users\Yusuf Furkan Duman\Desktop\Class örnekleri\örnek 1\örnek 1\obj\Debug\örnek 1.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\bin\Debug\örnek 1.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\obj\Debug\örnek 1.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\obj\Debug\örnek 1.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\bin\Debug\örnek 1.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\bin\Debug\örnek 1.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 73\örnek 1\obj\Debug\örnek 1.csprojResolveAssemblyReference.cache

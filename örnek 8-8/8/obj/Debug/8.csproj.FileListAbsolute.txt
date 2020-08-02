@@ -1,0 +1,8 @@
+C:\Users\aydna\Desktop\C# ders notları\8\8\bin\Debug\8.exe.config
+C:\Users\aydna\Desktop\C# ders notları\8\8\bin\Debug\8.exe
+C:\Users\aydna\Desktop\C# ders notları\8\8\bin\Debug\8.pdb
+C:\Users\aydna\Desktop\C# ders notları\8\8\obj\Debug\8.exe
+C:\Users\aydna\Desktop\C# ders notları\8\8\obj\Debug\8.pdb
+I:\C# Dersleri\Örnekler\8\8\bin\Debug\8.exe.config
+I:\C# Dersleri\Örnekler\8\8\obj\Debug\8.exe
+I:\C# Dersleri\Örnekler\8\8\obj\Debug\8.pdb

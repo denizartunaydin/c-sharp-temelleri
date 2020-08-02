@@ -1,0 +1,8 @@
+C:\Users\aydna\Desktop\C# ders notları\5\5\bin\Debug\5.exe.config
+C:\Users\aydna\Desktop\C# ders notları\5\5\bin\Debug\5.exe
+C:\Users\aydna\Desktop\C# ders notları\5\5\bin\Debug\5.pdb
+C:\Users\aydna\Desktop\C# ders notları\5\5\obj\Debug\5.exe
+C:\Users\aydna\Desktop\C# ders notları\5\5\obj\Debug\5.pdb
+I:\C# Dersleri\Örnekler\5\5\bin\Debug\5.exe.config
+I:\C# Dersleri\Örnekler\5\5\obj\Debug\5.exe
+I:\C# Dersleri\Örnekler\5\5\obj\Debug\5.pdb

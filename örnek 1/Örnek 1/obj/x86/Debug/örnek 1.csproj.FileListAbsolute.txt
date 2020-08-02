@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\örnekler\örnek 1\örnek 1\bin\Debug\örnek 1.exe
+C:\Users\user\Desktop\örnekler\örnek 1\örnek 1\bin\Debug\örnek 1.pdb
+C:\Users\user\Desktop\örnekler\örnek 1\örnek 1\obj\x86\Debug\örnek 1.exe
+C:\Users\user\Desktop\örnekler\örnek 1\örnek 1\obj\x86\Debug\örnek 1.pdb
+I:\C# Dersleri\Örnekler\örnek 1\örnek 1\obj\x86\Debug\örnek 1.exe
+I:\C# Dersleri\Örnekler\örnek 1\örnek 1\obj\x86\Debug\örnek 1.pdb
+I:\C# Dersleri\Örnekler\örnek 1\örnek 1\bin\Debug\örnek 1.exe
+I:\C# Dersleri\Örnekler\örnek 1\örnek 1\bin\Debug\örnek 1.pdb
+I:\C# Dersleri\Örnekler\örnek 1\örnek 1\obj\x86\Debug\örnek 1.csprojResolveAssemblyReference.cache

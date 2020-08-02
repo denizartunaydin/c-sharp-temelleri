@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\221103010 ferhat Kaydı\ferhat\örnek 3\örnek 3\bin\Debug\örnek 3.exe
+C:\Users\user\Desktop\221103010 ferhat Kaydı\ferhat\örnek 3\örnek 3\bin\Debug\örnek 3.pdb
+C:\Users\user\Desktop\221103010 ferhat Kaydı\ferhat\örnek 3\örnek 3\obj\x86\Debug\örnek 3.exe
+C:\Users\user\Desktop\221103010 ferhat Kaydı\ferhat\örnek 3\örnek 3\obj\x86\Debug\örnek 3.pdb

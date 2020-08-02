@@ -1,0 +1,12 @@
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.exe.config
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.pdb
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.csprojResolveAssemblyReference.cache
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.pdb
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.exe.config
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.exe
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.pdb
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.exe
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\bin\Debug\örnek 2.pdb
+I:\C# Dersleri\Örnekler\örnekler\örnek 2\örnek 2\obj\Debug\örnek 2.csprojResolveAssemblyReference.cache

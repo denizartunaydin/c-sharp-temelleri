@@ -1,0 +1,13 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\bin\Debug\örnek 79.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\bin\Debug\örnek 79.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\bin\Debug\örnek 79.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\obj\Debug\örnek 79.csprojResolveAssemblyReference.cache
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\obj\Debug\örnek 79.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 79\örnek 79\obj\Debug\örnek 79.pdb
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\bin\Debug\örnek 79.exe.config
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\bin\Debug\örnek 79.exe
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\bin\Debug\örnek 79.pdb
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\obj\Debug\örnek 79.csprojAssemblyReference.cache
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\obj\Debug\örnek 79.csproj.CoreCompileInputs.cache
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\obj\Debug\örnek 79.exe
+C:\Users\aydna\Desktop\Örnekler\console\örnek 79\örnek 79\obj\Debug\örnek 79.pdb

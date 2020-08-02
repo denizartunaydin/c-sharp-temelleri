@@ -1,0 +1,2 @@
+C:\Users\aydna\Desktop\C# ders notları\10\10\bin\Debug\10.exe.config
+I:\C# Dersleri\Örnekler\10\10\bin\Debug\10.exe.config

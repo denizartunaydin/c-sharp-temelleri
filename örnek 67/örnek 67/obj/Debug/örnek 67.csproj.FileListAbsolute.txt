@@ -1,0 +1,6 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\bin\Debug\örnek 67.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\bin\Debug\örnek 67.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\bin\Debug\örnek 67.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\obj\Debug\örnek 67.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\obj\Debug\örnek 67.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 67\örnek 67\obj\Debug\örnek 67.csprojResolveAssemblyReference.cache

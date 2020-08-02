@@ -1,0 +1,5 @@
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 61\örnek 61\bin\Debug\örnek 61.exe.config
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 61\örnek 61\bin\Debug\örnek 61.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 61\örnek 61\bin\Debug\örnek 61.pdb
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 61\örnek 61\obj\Debug\örnek 61.exe
+D:\DAA_Dosyalar\C# Dersleri\Örnekler\örnekler\örnek 61\örnek 61\obj\Debug\örnek 61.pdb

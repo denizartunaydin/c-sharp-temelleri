@@ -1,0 +1,6 @@
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\bin\Debug\örnek 14.exe.config
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\bin\Debug\örnek 14.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\bin\Debug\örnek 14.pdb
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\obj\Debug\örnek 14.csprojResolveAssemblyReference.cache
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\obj\Debug\örnek 14.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 14\örnek 14\obj\Debug\örnek 14.pdb

@@ -1,0 +1,6 @@
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\bin\Debug\örnek 22.exe.config
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\obj\Debug\örnek 22.csprojResolveAssemblyReference.cache
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\bin\Debug\örnek 22.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\bin\Debug\örnek 22.pdb
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\obj\Debug\örnek 22.exe
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 22\örnek 22\obj\Debug\örnek 22.pdb

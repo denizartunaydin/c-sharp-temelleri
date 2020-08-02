@@ -1,0 +1,14 @@
+C:\Users\aydna\Desktop\C# ders notları\16\16\bin\Debug\16.exe.config
+C:\Users\aydna\Desktop\C# ders notları\16\16\bin\Debug\16.exe
+C:\Users\aydna\Desktop\C# ders notları\16\16\bin\Debug\16.pdb
+C:\Users\aydna\Desktop\C# ders notları\16\16\obj\Debug\16.exe
+C:\Users\aydna\Desktop\C# ders notları\16\16\obj\Debug\16.pdb
+C:\Users\aydna\Desktop\c-ders\16\16\bin\Debug\16.exe.config
+C:\Users\aydna\Desktop\c-ders\16\16\obj\Debug\16.exe
+C:\Users\aydna\Desktop\c-ders\16\16\obj\Debug\16.pdb
+C:\Users\aydna\Desktop\c-ders\16\16\bin\Debug\16.exe
+C:\Users\aydna\Desktop\c-ders\16\16\bin\Debug\16.pdb
+C:\Users\aydna\Desktop\c-ders\16\16\obj\Debug\16.csprojResolveAssemblyReference.cache
+I:\C# Dersleri\Örnekler\16\16\bin\Debug\16.exe.config
+I:\C# Dersleri\Örnekler\16\16\obj\Debug\16.exe
+I:\C# Dersleri\Örnekler\16\16\obj\Debug\16.pdb

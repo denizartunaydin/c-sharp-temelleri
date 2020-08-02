@@ -1,0 +1,8 @@
+C:\Users\aydna\Desktop\C# ders notları\7\7\bin\Debug\7.exe.config
+C:\Users\aydna\Desktop\C# ders notları\7\7\bin\Debug\7.exe
+C:\Users\aydna\Desktop\C# ders notları\7\7\bin\Debug\7.pdb
+C:\Users\aydna\Desktop\C# ders notları\7\7\obj\Debug\7.exe
+C:\Users\aydna\Desktop\C# ders notları\7\7\obj\Debug\7.pdb
+I:\C# Dersleri\Örnekler\7\7\bin\Debug\7.exe.config
+I:\C# Dersleri\Örnekler\7\7\obj\Debug\7.exe
+I:\C# Dersleri\Örnekler\7\7\obj\Debug\7.pdb

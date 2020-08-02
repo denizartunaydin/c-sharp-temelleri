@@ -1,0 +1,9 @@
+C:\Users\aydna\Desktop\C# ders notları\9\9\bin\Debug\9.exe.config
+C:\Users\aydna\Desktop\C# ders notları\9\9\bin\Debug\9.exe
+C:\Users\aydna\Desktop\C# ders notları\9\9\bin\Debug\9.pdb
+C:\Users\aydna\Desktop\C# ders notları\9\9\obj\Debug\9.csprojResolveAssemblyReference.cache
+C:\Users\aydna\Desktop\C# ders notları\9\9\obj\Debug\9.exe
+C:\Users\aydna\Desktop\C# ders notları\9\9\obj\Debug\9.pdb
+I:\C# Dersleri\Örnekler\9\9\bin\Debug\9.exe.config
+I:\C# Dersleri\Örnekler\9\9\obj\Debug\9.exe
+I:\C# Dersleri\Örnekler\9\9\obj\Debug\9.pdb

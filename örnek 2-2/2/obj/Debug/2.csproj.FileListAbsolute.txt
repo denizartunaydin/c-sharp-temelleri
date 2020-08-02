@@ -1,0 +1,6 @@
+C:\Users\aydna\Desktop\C# ders notları\2\2\bin\Debug\2.exe.config
+C:\Users\aydna\Desktop\C# ders notları\2\2\bin\Debug\2.exe
+C:\Users\aydna\Desktop\C# ders notları\2\2\bin\Debug\2.pdb
+C:\Users\aydna\Desktop\C# ders notları\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\aydna\Desktop\C# ders notları\2\2\obj\Debug\2.exe
+C:\Users\aydna\Desktop\C# ders notları\2\2\obj\Debug\2.pdb

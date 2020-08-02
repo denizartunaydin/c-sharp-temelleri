@@ -1,0 +1,4 @@
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 3\örnek 3\bin\Debug\örnek 3.exe.config
+C:\Users\YusufFurkan\Desktop\örnekler\örnek 3\örnek 3\obj\Debug\örnek 3.csprojResolveAssemblyReference.cache
+I:\C# Dersleri\Örnekler\örnekler\örnek 3\örnek 3\bin\Debug\örnek 3.exe.config
+I:\C# Dersleri\Örnekler\örnekler\örnek 3\örnek 3\obj\Debug\örnek 3.csprojResolveAssemblyReference.cache
